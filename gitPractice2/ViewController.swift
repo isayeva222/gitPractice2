@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         //hello
         //something codegit
     }
+    
+    func newAdding(){
+        //add
+    }
 
 
 }
