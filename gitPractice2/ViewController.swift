@@ -17,11 +17,16 @@ class ViewController: UIViewController {
         //something codegit
         
         print(3)
+        doSomething()
     }
     
     func newAdding(){
         //add
         print(5)
+    }
+    
+    func doSomething(){
+        print("doSomething")
     }
 
 
