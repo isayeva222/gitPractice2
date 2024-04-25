@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     
     func newAdding(){
         //add
+        print(5)
     }
 
 
